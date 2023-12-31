@@ -1,0 +1,12 @@
+# 忽略logs文件夹
+logs/
+# 忽略构建产物
+build/
+dist/
+__pycache__/
+# 忽略工作目录文件
+.idea/
+.vscode/
+
+test.ipynb
+config.yaml
